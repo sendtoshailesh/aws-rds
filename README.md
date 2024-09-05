@@ -2,7 +2,7 @@
 
 
 
-# AWS RDS PostgreSQL CLI Command Reference
+# my curated AWS RDS PostgreSQL CLI Command Reference
 
 This guide provides a comprehensive list of AWS CLI commands for managing RDS PostgreSQL instances. It covers various operations from creating and modifying instances to monitoring and maintenance tasks.
 
